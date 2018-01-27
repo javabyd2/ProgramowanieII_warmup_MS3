@@ -110,7 +110,6 @@ public class PTestimpl {
             }
         }
         System.out.println(droppedList);
-
         return droppedList;
     }
 }
